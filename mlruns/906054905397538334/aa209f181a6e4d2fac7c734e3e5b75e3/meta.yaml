@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906054905397538334/aa209f181a6e4d2fac7c734e3e5b75e3/artifacts
+end_time: 1707358353390
+entry_point_name: ''
+experiment_id: '906054905397538334'
+lifecycle_stage: active
+run_id: aa209f181a6e4d2fac7c734e3e5b75e3
+run_name: apples_rf_test
+run_uuid: aa209f181a6e4d2fac7c734e3e5b75e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707358351776
+status: 3
+tags: []
+user_id: reroes
